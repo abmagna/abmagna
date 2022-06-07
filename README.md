@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Ana Beatriz! 👋</h2>
-I'm civil engenieer and i'm in carrer transition! I want to discover a new world in the area of technology and who knows, escape from this matrix! 
+I'm intern in IT Company! I want to discover a new world in the area of technology and who knows, escape from this matrix! 
 
 <!--  
 <h2>💻 Some stats 💻</h2>
